@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rispop&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rispop&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **rispop/rispop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
